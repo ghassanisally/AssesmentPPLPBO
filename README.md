@@ -1,0 +1,8 @@
+# AssesmentPPLPBO
+ANGGOTA KELOMPOK
+<ol>
+<li>DELA LINDA NINGRUM</li>
+<li>RINANDA OKTAVIANI</li>
+<li>SALLY GHASSANI</li>
+<li>SINDI RAHAYU</li>
+</ol>
